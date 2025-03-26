@@ -6,11 +6,11 @@ import java.util.List;
 /**
  * La clase Contacto representa un contacto con un nombre y una lista de números de teléfono.
  *
- * @author TuNombre
+ * @author Agustin
  * @version 1.0
  * @since 2025
  */
-class Contacto {
+public class Contacto {
     private String name;
     private List<String> phones;
 
